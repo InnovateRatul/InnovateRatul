@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Md. Ratul Hassan Bhuiyan 
+### Hi there 👋, I am Md. Ratul Hassan Bhuiyan 
 #### I am a student 
 I love to learn new skills 
 I made this project just for fun
@@ -25,4 +25,3 @@ Skills:  Basic HTML / Basic C
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=InnovateRatul)  
 
-![Profile views](https://gpvc.arturio.dev/InnovateRatul)  
